@@ -1,3 +1,3 @@
 # Thelem-VideoEconometrie
 
-La vidéo concernant ce projet est sur YouTube : https://youtu.be/Tff9eUdCcyQ
+The video is on YouTube with this link : https://youtu.be/Tff9eUdCcyQ
